@@ -1,0 +1,16 @@
+  176  nano identity.txt
+  177  git init
+  178  git status
+  179  git add .
+  180  git status
+  181  git commit -m "working commit"
+  182  git remote add origin https://github.com/Success-Vera/Git-assignment.git~
+  183  git remote add origin git@github.com:Success-Vera/Git-assignment.git
+  184  git push -u origin master
+  185  git remote add origin https://github.com/Success-Vera/Git-assignment.git
+  186  git push -u origin master
+  187  git remote add ifeoma git@github.com:Success-Vera/Git-assignment.git
+  188  git push -u ifeoma master
+  189  ls -a
+  190  git add .
+  191  git status
